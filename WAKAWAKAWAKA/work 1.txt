@@ -1,0 +1,5 @@
+﻿Сборка начата…
+1>------ Сборка начата: проект: WAKAWAKAWAKA, Конфигурация: Debug Any CPU ------
+1>  WAKAWAKAWAKA -> C:\Users\79532\source\repos\WAKAWAKAWAKA\WAKAWAKAWAKA\bin\Debug\WAKAWAKAWAKA.exe
+========== Сборка: успешно выполнено — 1 , со сбоем — 0, в актуальном состоянии — 0, пропущено — 0 ==========
+========== Прошло 00:01,443 ==========
